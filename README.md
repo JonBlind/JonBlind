@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Raw 2D Hockey Shootout Game in Java](https://github.com/JonBlind/Shootout)
 
-- 🌱 I’m currently learning **MySQL, Pandas, Scikit-learn, C**
+- 🌱 I’m currently learning **MySQL, TensorFlow, Scikit-learn, C**
 
 
 <h3 align="left"> Contact:
