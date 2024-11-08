@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JonBlind</h1>
 <h3 align="center">A Computer Science Undergraduate at Northeastern University <br> (Previously a Cell/Molecular Biology major)</h3>
 
-- 🔭 I’m currently working on [Raw 2D Hockey Shootout Game in Java](https://github.com/JonBlind/Shootout)
+- 🔭 I’m currently working on [Raw 2D Hockey Shootout Game in Java](https://github.com/JonBlind/Shootout) and [Gesture Media Control Via OpenCV](https://github.com/JonBlind/HandMediaControl)
 
 - 🌱 I’m currently learning **MySQL, TensorFlow, Scikit-learn, C**
 
