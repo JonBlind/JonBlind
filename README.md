@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Raw 2D Hockey Shootout Game in Java](https://github.com/JonBlind/Shootout) and [Gesture Media Control Via OpenCV](https://github.com/JonBlind/HandMediaControl)
 
-- 🌱 I’m currently learning **MySQL, TensorFlow, Scikit-learn, C**
+- 🌱 I’m currently learning **MySQL, TensorFlow, Scikit-learn, C, JavaScript**
 
 
 <h3 align="left"> Contact:
